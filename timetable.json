@@ -1,0 +1,27 @@
+{
+  "monday": {
+    "name": "Social Economics Lecture",
+    "time": "10:00-11:00",
+    "building": "Kenneth"
+  },
+  "tuesday" : {
+    "name": "Social Economics Tutorial",
+    "time": "11:00-13:00",
+    "building": "Kenneth"
+  },
+  "wednesday" : {
+    "name": "Struggles in Society Lecture",
+    "time": "09:00-11:00",
+    "building": "Richards"
+  },
+  "thursday" : {
+    "name": "Struggles in Society Tutorial",
+    "time": "12:00-14:00",
+    "building": "Arthur"
+  },
+  "friday" :{
+    "name": "Sports Society Session",
+    "time": "10:00-11:00",
+    "building": "Kenneth"
+  }
+}
